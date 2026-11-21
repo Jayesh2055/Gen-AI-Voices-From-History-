@@ -159,7 +159,7 @@ with st.container(border=True):
             st.markdown(message["content"])
 
     prompt = st.chat_input(
-        f"Ask {persona_name} a question…",
+        f"Ask {persona_name} a question from below…",
         key="chat_input",
         max_chars=2_000,
         submit_mode="disable",
