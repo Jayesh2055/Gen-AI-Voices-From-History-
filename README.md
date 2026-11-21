@@ -1,4 +1,4 @@
-# Problem Statement 16: Persona Chatbot (Historical Figure)
+# Persona Chatbot (Historical Figure)
 
 A Python-only Streamlit app for talking with an AI role-play of a historical figure. Choose from six figures, ask questions in a chat interface, and continue the conversation while the browser session stays open.
 
